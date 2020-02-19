@@ -1,0 +1,5 @@
+﻿  main.cpp
+..\..\main.cpp(25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码
+  已完成代码的生成
+  diff_rec.vcxproj -> E:\SIMIT\SIMIC\project\CODE\视频分割成帧\diff_rec\diff_rec\x64\Release\diff_rec.exe
